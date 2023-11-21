@@ -1,21 +1,14 @@
-# coc8640b4ab7ea074c56f6bdc
+A simple chrome extension that helps you to save your tabs. 
 
-Quick start:
+Quick set-up:- 
+1- Clone repo and get the folder
+2- Open chrome extension developer-mode and upload the folder
+3- At the top right, click Extensions.. enjoy this usufel nice tool
 
-```
-$ npm install
-$ npm start
-````
+How to use:- 
+1- For saving the current tab just click on SAVE TAB
+2- For saving another URL, just type in pr paste the URL in the input feild and then click on SAVE INPUT
+3- Click DELETE ALL if you want to delete the saved URLS. 
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+Made By SCRIMBA https://scrimba.com
